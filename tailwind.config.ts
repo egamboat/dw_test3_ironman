@@ -11,6 +11,10 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'purple': '#3f3cbb',
+        'blue': '#17275c',
+        'redironman':'#a42228',
+        'gray': '#636363'
       },
     },
   },
